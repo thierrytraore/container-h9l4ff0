@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "thierrytraore",
+  "repo": "container-h9l4ff0",
+  "name": "thierrytraore",
+  "email": "traore.toubathierry@gmail.com",
+}
